@@ -1,2 +1,2 @@
 # blood-cell-brawl
-game me and emir are making in pyglet
+game me and my friend are making in pyglet
